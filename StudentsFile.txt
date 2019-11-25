@@ -1,0 +1,5 @@
+AAA,David,david@yahoo.com,2021,No title,,
+BBB,Adi,adi@yahoo.com,2022,Mars,Sergiu
+CCC,Natan,natan@yahoo.com,2021,Artificial inteligence,Andrei
+DDD,Paul,paul@yahoo.com,2021,Math,Sergiu
+EEE,George,george@yahoo.com,2021,Science,Andrei
